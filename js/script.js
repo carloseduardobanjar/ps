@@ -22,5 +22,3 @@ function start(){
 }
 
 window.addEventListener("load", start)
-
-// https://www.youtube.com/watch?v=BwwOu29K6mE
