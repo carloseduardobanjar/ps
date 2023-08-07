@@ -150,6 +150,7 @@ h2{
     background-image: linear-gradient(to right, rgba(253, 74, 224, 0.5), rgba(185, 70, 255, 0.5 ));
 }
 
-.icon-bg svg{
+.icon-bg img{
     padding: 10px;
 }
+
